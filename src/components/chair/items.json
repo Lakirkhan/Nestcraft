@@ -1,0 +1,103 @@
+[
+    {
+      "id": 11,
+      "name": "Ergonomic Office Chair",
+      "brand": "GreenSoul",
+      "size": "Adjustable",
+      "price": 8999,
+      "rating": 4.7,
+      "image": "/assets/chair/chair1.avif",
+      "details": "Ergonomic chair with adjustable height and lumbar support, perfect for long working hours."
+    },
+    {
+      "id": 12,
+      "name": "Wooden Dining Chair",
+      "brand": "HomeTown",
+      "size": "Standard",
+      "price": 3499,
+      "rating": 4.5,
+      "image": "/assets/chair/chair2.avif",
+      "details": "Classic wooden dining chair with a cushioned seat for a comfortable dining experience."
+    },
+    {
+      "id": 13,
+      "name": "Recliner Chair",
+      "brand": "Durian",
+      "size": "Large",
+      "price": 15999,
+      "rating": 4.8,
+      "image": "/assets/chair/chair3.avif",
+      "details": "Luxurious recliner chair with plush cushions and adjustable reclining positions."
+    },
+    {
+      "id": 14,
+      "name": "Plastic Armchair",
+      "brand": "Nilkamal",
+      "size": "Standard",
+      "price": 1299,
+      "rating": 4.2,
+      "image": "/assets/chair/chair4.avif",
+      "details": "Durable plastic armchair, lightweight and perfect for both indoor and outdoor use."
+    },
+    {
+      "id": 15,
+      "name": "Leather Executive Chair",
+      "brand": "Godrej Interio",
+      "size": "Adjustable",
+      "price": 12999,
+      "rating": 4.6,
+      "image": "/assets/chair/chair5.avif",
+      "details": "Premium leather executive chair with high backrest and ergonomic design."
+    },
+    {
+      "id": 16,
+      "name": "Rocking Chair",
+      "brand": "Urban Ladder",
+      "size": "Standard",
+      "price": 9999,
+      "rating": 4.7,
+      "image": "/assets/chair/chair6.avif",
+      "details": "Classic wooden rocking chair with a smooth rocking motion, perfect for relaxation."
+    },
+    {
+      "id": 17,
+      "name": "Accent Chair",
+      "brand": "Pepperfry",
+      "size": "Standard",
+      "price": 5499,
+      "rating": 4.4,
+      "image": "/assets/chair/chair7.avif",
+      "details": "Stylish accent chair with a cushioned seat and backrest, perfect for living rooms."
+    },
+    {
+      "id": 18,
+      "name": "Bar Stool",
+      "brand": "IKEA",
+      "size": "Tall",
+      "price": 2999,
+      "rating": 4.3,
+      "image": "/assets/chair/chair8.avif",
+      "details": "Modern bar stool with a high seat and footrest, perfect for kitchen counters and bars."
+    },
+    {
+      "id": 19,
+      "name": "Folding Chair",
+      "brand": "Fabindia",
+      "size": "Standard",
+      "price": 2499,
+      "rating": 4.1,
+      "image": "/assets/chair/chair9.avif",
+      "details": "Space-saving foldable chair made from sturdy materials, easy to store and transport."
+    },
+    {
+      "id": 20,
+      "name": "Bean Bag Chair",
+      "brand": "Wakefit",
+      "size": "Large",
+      "price": 3499,
+      "rating": 4.5,
+      "image": "/assets/chair/chair10.avif",
+      "details": "Comfortable and cozy bean bag chair with soft filling, perfect for lounging."
+    }
+  ]
+  

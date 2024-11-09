@@ -1,0 +1,97 @@
+/* .navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+  cursor: pointer;
+}
+
+.navbar-ul {
+  list-style-type: none;
+}
+
+.navbar-ul li {
+  padding: 10px;
+  float: left;
+}
+
+.nav-btn {
+  margin: 8px;
+  background-color: rgb(255 101 101);
+  font-family: inherit;
+  border: 0px;
+  font-size: 14px;
+  height: 70%;
+  padding: 8px 10px;
+  cursor: pointer;
+} */
+
+
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Center items vertically */
+  padding: 10px 30px;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.navbar-ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center; /* Align links in the center */
+  margin: 0;
+}
+
+.navbar-ul li {
+  padding: 10px;
+}
+
+.navbar-logo {
+  height: 75px;
+  width: auto; /* Maintain aspect ratio */
+  object-fit: contain; /* Ensures image doesn't get distorted */
+}
+
+.nav-btn {
+  margin: 8px;
+  background-color: brown;
+  font-family: inherit;
+  border: 0px;
+  font-size: 14px;
+  height: 70%;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+/* Add some hover effects for buttons and links */
+.nav-btn:hover,
+.navbar-ul a:hover {
+  color: gray;
+}
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-center ul {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-center li {
+  cursor: pointer;
+  font-size: 18px;
+}

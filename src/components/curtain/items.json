@@ -1,0 +1,103 @@
+[
+    {
+      "id": 21,
+      "name": "Floral Print Window Curtain",
+      "brand": "Fabindia",
+      "size": "4 x 7 ft",
+      "price": 1499,
+      "rating": 4.5,
+      "image": "/assets/curtain/curtain1.avif",
+      "details": "Beautiful floral print window curtain made from premium cotton, perfect for brightening up your living room."
+    },
+    {
+      "id": 22,
+      "name": "Blackout Polyester Curtain",
+      "brand": "HomeTown",
+      "size": "5 x 8 ft",
+      "price": 1899,
+      "rating": 4.7,
+      "image": "/assets/curtain/curtain2.avif",
+      "details": "Polyester blackout curtain, blocks 99% of sunlight, ideal for bedrooms and home theaters."
+    },
+    {
+      "id": 23,
+      "name": "Sheer White Curtain",
+      "brand": "IKEA",
+      "size": "4.5 x 7 ft",
+      "price": 1199,
+      "rating": 4.3,
+      "image": "/assets/curtain/curtain3.avif",
+      "details": "Elegant sheer curtain with a lightweight design, allowing natural light while maintaining privacy."
+    },
+    {
+      "id": 24,
+      "name": "Geometric Pattern Curtain",
+      "brand": "D'Decor",
+      "size": "6 x 9 ft",
+      "price": 2499,
+      "rating": 4.6,
+      "image": "/assets/curtain/curtain4.avif",
+      "details": "Modern geometric design curtain, perfect for a contemporary living space or office."
+    },
+    {
+      "id": 25,
+      "name": "Velvet Room Darkening Curtain",
+      "brand": "AmazonBasics",
+      "size": "5 x 7.5 ft",
+      "price": 2199,
+      "rating": 4.8,
+      "image": "/assets/curtain/curtain5.webp",
+      "details": "Luxurious velvet curtain with room-darkening capabilities, providing both style and functionality."
+    },
+    {
+      "id": 26,
+      "name": "Striped Cotton Curtain",
+      "brand": "Pepperfry",
+      "size": "5 x 8 ft",
+      "price": 1699,
+      "rating": 4.4,
+      "image": "/assets/curtain/curtain6.avif",
+      "details": "Cotton curtain with a classic striped design, perfect for both traditional and modern interiors."
+    },
+    {
+      "id": 27,
+      "name": "Jacquard Curtain",
+      "brand": "Home Centre",
+      "size": "4 x 6.5 ft",
+      "price": 1399,
+      "rating": 4.5,
+      "image": "/assets/curtain/curtain7.avif",
+      "details": "Elegant jacquard curtain with a textured pattern, adding a luxurious touch to your living room."
+    },
+    {
+      "id": 28,
+      "name": "Cotton Linen Blend Curtain",
+      "brand": "Urban Ladder",
+      "size": "6 x 9 ft",
+      "price": 2999,
+      "rating": 4.7,
+      "image": "/assets/curtain/curtain8.avif",
+      "details": "Premium cotton-linen blend curtain, providing a natural look with a soft texture."
+    },
+    {
+      "id": 29,
+      "name": "Printed Semi-Sheer Curtain",
+      "brand": "Spaces",
+      "size": "5 x 7 ft",
+      "price": 1799,
+      "rating": 4.6,
+      "image": "/assets/curtain/curtain9.webp",
+      "details": "Printed semi-sheer curtain with a subtle pattern, providing both style and light control."
+    },
+    {
+      "id": 30,
+      "name": "Solid Color Blackout Curtain",
+      "brand": "Durian",
+      "size": "5.5 x 8 ft",
+      "price": 1999,
+      "rating": 4.9,
+      "image": "/assets/curtain/curtain10.avif",
+      "details": "Simple and elegant solid color blackout curtain, perfect for darkening any room while adding a chic look."
+    }
+  ]
+  

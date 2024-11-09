@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Wooden King Size Bed",
+      "brand": "Royal Oak",
+      "size": "King",
+      "price": 29999,
+      "rating": 4.5,
+      "image": "/assets/bed/bed1.avif",
+      "details": "Elegant wooden king-size bed with high-quality craftsmanship and durability."
+    },
+    {
+      "id": 2,
+      "name": "Modern Queen Size Bed",
+      "brand": "HomeTown",
+      "size": "Queen",
+      "price": 23999,
+      "rating": 4.2,
+      "image": "/assets/bed/bed2.avif",
+      "details": "Sleek and modern queen-size bed with built-in storage compartments."
+    },
+    {
+      "id": 3,
+      "name": "Luxury Upholstered Bed",
+      "brand": "Durian",
+      "size": "King",
+      "price": 45999,
+      "rating": 4.8,
+      "image": "/assets/bed/bed3.avif",
+      "details": "Luxurious upholstered bed with soft fabric and a comfortable headboard."
+    },
+    {
+      "id": 4,
+      "name": "Metal Queen Size Bed",
+      "brand": "Godrej Interio",
+      "size": "Queen",
+      "price": 18999,
+      "rating": 4.0,
+      "image": "/assets/bed/bed4.avif",
+      "details": "Sturdy and durable metal bed frame with a minimalist design."
+    },
+    {
+      "id": 5,
+      "name": "Classic Wooden Bed",
+      "brand": "Nilkamal",
+      "size": "Double",
+      "price": 16999,
+      "rating": 4.3,
+      "image": "/assets/bed/bed5.avif",
+      "details": "Classic double bed made from high-quality wood with a traditional design."
+    },
+    {
+      "id": 6,
+      "name": "Storage Bed with Drawers",
+      "brand": "Urban Ladder",
+      "size": "King",
+      "price": 34999,
+      "rating": 4.6,
+      "image": "/assets/bed/bed6.avif",
+      "details": "King-size bed with spacious under-bed drawers for additional storage."
+    },
+    {
+      "id": 7,
+      "name": "Rustic Wooden Bed",
+      "brand": "Pepperfry",
+      "size": "Queen",
+      "price": 26999,
+      "rating": 4.4,
+      "image": "/assets/bed/bed7.avif",
+      "details": "Rustic queen-size wooden bed with a distressed finish for a vintage look."
+    },
+    {
+      "id": 8,
+      "name": "Contemporary Platform Bed",
+      "brand": "IKEA",
+      "size": "King",
+      "price": 39999,
+      "rating": 4.7,
+      "image": "/assets/bed/bed8.avif",
+      "details": "Contemporary platform bed with a low-profile design and clean lines."
+    },
+    {
+      "id": 9,
+      "name": "Canopy Bed",
+      "brand": "Fabindia",
+      "size": "King",
+      "price": 49999,
+      "rating": 4.9,
+      "image": "/assets/bed/bed9.avif",
+      "details": "Elegant king-size canopy bed with a four-poster design for a royal feel."
+    },
+    {
+      "id": 10,
+      "name": "Foldable Sofa Cum Bed",
+      "brand": "Wakefit",
+      "size": "Double",
+      "price": 19999,
+      "rating": 4.2,
+      "image": "/assets/bed/bed10.avif",
+      "details": "Space-saving foldable sofa cum bed perfect for compact spaces."
+    }
+  ]
+  

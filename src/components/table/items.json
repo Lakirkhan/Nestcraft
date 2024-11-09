@@ -1,0 +1,103 @@
+[
+    {
+      "id": 41,
+      "name": "Wooden Dining Table",
+      "brand": "Urban Ladder",
+      "size": "6 x 3 ft",
+      "price": 14999,
+      "rating": 4.7,
+      "image": "/assets/table/table1.avif",
+      "details": "Elegant wooden dining table with seating capacity for six, perfect for family meals."
+    },
+    {
+      "id": 42,
+      "name": "Glass Top Coffee Table",
+      "brand": "Pepperfry",
+      "size": "4 x 2 ft",
+      "price": 8999,
+      "rating": 4.5,
+      "image": "/assets/table/table2.avif",
+      "details": "Stylish coffee table with a tempered glass top and metal legs, suitable for modern living rooms."
+    },
+    {
+      "id": 43,
+      "name": "Folding Study Table",
+      "brand": "IKEA",
+      "size": "3 x 2 ft",
+      "price": 4999,
+      "rating": 4.3,
+      "image": "/assets/table/table3.avif",
+      "details": "Compact and foldable study table, ideal for small spaces and easy to store."
+    },
+    {
+      "id": 44,
+      "name": "Round Marble Table",
+      "brand": "HomeTown",
+      "size": "3.5 ft diameter",
+      "price": 12999,
+      "rating": 4.6,
+      "image": "/assets/table/table4.avif",
+      "details": "Luxurious round marble table with a polished finish, perfect for a chic dining room."
+    },
+    {
+      "id": 45,
+      "name": "Office Desk with Drawers",
+      "brand": "Durian",
+      "size": "5 x 2.5 ft",
+      "price": 11999,
+      "rating": 4.8,
+      "image": "/assets/table/table5.avif",
+      "details": "Spacious office desk with built-in drawers for storage, made of durable engineered wood."
+    },
+    {
+      "id": 46,
+      "name": "Minimalist Console Table",
+      "brand": "D'Decor",
+      "size": "4 x 1.5 ft",
+      "price": 7499,
+      "rating": 4.4,
+      "image": "/assets/table/table6.avif",
+      "details": "Sleek minimalist console table with a wooden finish, ideal for entryways or hallways."
+    },
+    {
+      "id": 47,
+      "name": "Expandable Dining Table",
+      "brand": "Home Centre",
+      "size": "5 x 3 ft (expandable to 7 x 3 ft)",
+      "price": 15999,
+      "rating": 4.9,
+      "image": "/assets/table/table7.avif",
+      "details": "Expandable dining table with a hidden leaf, great for hosting larger gatherings."
+    },
+    {
+      "id": 48,
+      "name": "Industrial Style Work Table",
+      "brand": "AmazonBasics",
+      "size": "4 x 2.5 ft",
+      "price": 8999,
+      "rating": 4.7,
+      "image": "/assets/table/table8.avif",
+      "details": "Sturdy work table with an industrial design, featuring a metal frame and wooden top."
+    },
+    {
+      "id": 49,
+      "name": "Corner Study Table",
+      "brand": "Godrej Interio",
+      "size": "5 x 2.5 ft",
+      "price": 10999,
+      "rating": 4.6,
+      "image": "/assets/table/table9.avif",
+      "details": "Corner study table with ample workspace, designed to fit snugly into any corner of a room."
+    },
+    {
+      "id": 50,
+      "name": "Modern Glass Dining Table",
+      "brand": "Fabindia",
+      "size": "6 x 3 ft",
+      "price": 13999,
+      "rating": 4.8,
+      "image": "/assets/table/table10.avif",
+      "details": "Modern dining table with a clear glass top and wooden legs, ideal for contemporary homes."
+    }
+  ]
+  

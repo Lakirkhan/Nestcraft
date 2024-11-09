@@ -1,0 +1,77 @@
+.cart-container {
+  max-width: 500px;
+  margin: 0 auto; /* Center the container */
+}
+
+.cart-item {
+  border: 1px solid #cdcdcd;
+  text-align: left;
+  border-radius: 15px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  display: flex; /* Aligns image and text side by side */
+  align-items: center; /* Vertically center content */
+}
+
+.item-image img {
+  max-width: 100px; /* Set a max width for the image */
+  max-height: 100px; /* Set a max height to maintain aspect ratio */
+  border-radius: 10px;
+  object-fit: cover; /* Ensures the image doesn't stretch */
+  margin-right: 10px; /* Adds space between the image and text */
+}
+
+.item-price,
+.item-name {
+  margin-left: 10px; /* Add spacing between items */
+}
+
+.item-expectedDelivery {
+  margin-left: 10px;
+  font-size: 0.9em; /* Make the delivery text slightly smaller */
+}
+
+.cart-container button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(40, 38, 38);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cart-container button:hover {
+  background-color: #1b211b;
+}
+
+.item-quantity {
+  display: flex;
+  align-items: center;
+  margin: 10px 0; /* Add space around the quantity controls */
+}
+
+.item-quantity button {
+  background-color: #333; /* Dark grey background */
+  color: white; /* White text for contrast */
+  border: 1px solid #555; /* Darker border to match the black theme */
+  padding: 5px 10px; /* Spacing for button content */
+  cursor: pointer;
+  font-size: 16px; /* Font size for readability */
+  border-radius: 5px; /* Rounded corners */
+  margin: 0 5px; /* Space between buttons and quantity */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.item-quantity button:hover {
+  background-color: #444; /* Slightly lighter dark grey on hover */
+}
+
+.item-quantity span {
+  font-size: 16px; /* Font size for the quantity number */
+  margin: 0 10px; /* Space around the quantity number */
+  color: black; /* Set quantity text color to black */
+  width: 30px; /* Fixed width for quantity to keep the layout consistent */
+  text-align: center; /* Center the quantity number */
+}

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 31,
+      "name": "3-Seater Fabric Sofa",
+      "brand": "HomeTown",
+      "size": "3-Seater",
+      "price": 24999,
+      "rating": 4.6,
+      "image": "/assets/sofa/sofa1.avif",
+      "details": "Modern 3-seater fabric sofa with a comfortable cushion and wooden legs, perfect for living rooms."
+    },
+    {
+      "id": 32,
+      "name": "Leatherette Sofa",
+      "brand": "Godrej Interio",
+      "size": "2-Seater",
+      "price": 19999,
+      "rating": 4.7,
+      "image": "/assets/sofa/sofa2.avif",
+      "details": "Elegant 2-seater leatherette sofa with a sleek design, ideal for small spaces."
+    },
+    {
+      "id": 33,
+      "name": "Recliner Sofa",
+      "brand": "Durian",
+      "size": "3-Seater",
+      "price": 35999,
+      "rating": 4.8,
+      "image": "/assets/sofa/sofa3.avif",
+      "details": "Luxurious 3-seater recliner sofa with adjustable reclining mechanisms for ultimate relaxation."
+    },
+    {
+      "id": 34,
+      "name": "Sectional Sofa",
+      "brand": "Urban Ladder",
+      "size": "L-Shaped",
+      "price": 42999,
+      "rating": 4.5,
+      "image": "/assets/sofa/sofa4.avif",
+      "details": "Spacious L-shaped sectional sofa with soft fabric and extra seating space, ideal for large families."
+    },
+    {
+      "id": 35,
+      "name": "Sofa Bed",
+      "brand": "Wakefit",
+      "size": "3-Seater",
+      "price": 28999,
+      "rating": 4.6,
+      "image": "/assets/sofa/sofa5.avif",
+      "details": "Multi-functional 3-seater sofa bed with a foldable design for easy conversion into a bed."
+    },
+    {
+      "id": 36,
+      "name": "Wooden Frame Sofa",
+      "brand": "Pepperfry",
+      "size": "2-Seater",
+      "price": 15999,
+      "rating": 4.4,
+      "image": "/assets/sofa/sofa6.avif",
+      "details": "Classic 2-seater wooden frame sofa with soft cushions, adding a traditional touch to your decor."
+    },
+    {
+      "id": 37,
+      "name": "Velvet Sofa",
+      "brand": "Fabindia",
+      "size": "3-Seater",
+      "price": 37999,
+      "rating": 4.7,
+      "image": "/assets/sofa/sofa7.avif",
+      "details": "Elegant 3-seater velvet sofa with a plush feel and royal design, perfect for luxury living spaces."
+    },
+    {
+      "id": 38,
+      "name": "Compact Loveseat",
+      "brand": "IKEA",
+      "size": "2-Seater",
+      "price": 17999,
+      "rating": 4.3,
+      "image": "/assets/sofa/sofa8.avif",
+      "details": "Comfortable and stylish loveseat, ideal for small apartments or cozy corners."
+    },
+    {
+      "id": 39,
+      "name": "Chesterfield Sofa",
+      "brand": "WoodenStreet",
+      "size": "3-Seater",
+      "price": 44999,
+      "rating": 4.9,
+      "image": "/assets/sofa/sofa9.avif",
+      "details": "Classic Chesterfield sofa with deep button tufting and rolled arms, adding a timeless charm to any room."
+    },
+    {
+      "id": 40,
+      "name": "Futon Sofa",
+      "brand": "Nilkamal",
+      "size": "3-Seater",
+      "price": 20999,
+      "rating": 4.5,
+      "image": "/assets/sofa/sofa10.avif",
+      "details": "Functional futon sofa that easily converts into a bed, offering versatility for compact spaces."
+    }
+  ]
+  
